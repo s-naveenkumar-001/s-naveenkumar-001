@@ -30,4 +30,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-naveenkumar-001&show_icons=true&locale=en" alt="s-naveenkumar-001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-naveenkumar-001&" alt="s-naveenkumar-001" /></p>
+
+<div align="center">
+  <h2>🐍 Snake eating my Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/s-naveenkumar-001/s-naveenkumar-001/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-naveenkumar-001" alt="s-naveenkumar-001" /></a> </p>
