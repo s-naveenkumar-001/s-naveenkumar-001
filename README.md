@@ -51,5 +51,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/s-naveenkumar-001/s-naveenkumar-001/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
-  
+
+## 🏆 Trophy ##  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-naveenkumar-001" alt="s-naveenkumar-001" /></a> </p>
