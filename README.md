@@ -63,12 +63,22 @@ A computer-vision and machine-learning system that analyzes climbers' movement p
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [Velvet Fork — AI Customer Care Chatbot](https://github.com/s-naveenkumar-001/velvet-fork)
+Flask restaurant platform where an OpenRouter-backed agent ("Aether") books tables, places orders, and handles cancellations by calling the same tool functions as the web UI — grounded in a real SQL schema, not scripted replies.
+
+`Python` `Flask` `SQLAlchemy` `OpenRouter` `LLM Tool-Calling`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧗 [AI Climbing Assistant](https://github.com/s-naveenkumar-001/An-Artificial-Intelligence-Based-Climbing-Assistant-for-Advanced-Athletes)
 IEEE-published CV system that tracks climber movement and scores technique against reference patterns.
 
 `Python` `OpenCV` `Machine Learning`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🫀 [Heart Disease Prediction](https://github.com/s-naveenkumar-001/Heart-disease-prediction-using-machine-learning)
@@ -77,8 +87,6 @@ Clinical-data risk classifier using a Random Forest model, with a simple UI so n
 `Python` `Random Forest` `Pandas` `NumPy`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚧 [Automatic Gate Access System](https://github.com/s-naveenkumar-001/Automatic-Gate-Opening-System-Using-Number-Plate-Recognition)
@@ -87,7 +95,9 @@ OCR-based number-plate recognition that checks vehicles against an allow-list, t
 `OpenCV` `Tesseract OCR` `PySerial` `SMTP`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
 
 ### 🦾 [Robotic Arm Simulator](https://github.com/s-naveenkumar-001/Robotics-Projects)
 A 2-link inverse/forward-kinematics pick-and-place simulation with animated motion, modeling a KUKA-style industrial arm.
@@ -151,6 +161,13 @@ Harvard CS50's Python coursework, including a console-based inventory management
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=9ece6a)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a1b26?style=for-the-badge&logo=opencv&logoColor=e0af68)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1b26?style=for-the-badge&logo=plotly&logoColor=f7768e)
+
+**Backend & AI Integration**
+<br/>
+![Flask](https://img.shields.io/badge/Flask-1a1b26?style=for-the-badge&logo=flask&logoColor=7aa2f7)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a1b26?style=for-the-badge&logo=sqlalchemy&logoColor=bb9af7)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1b26?style=for-the-badge&logo=openai&logoColor=9ece6a)
+![LLM Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-1a1b26?style=for-the-badge&color=e0af68)
 
 **Tools & Platforms**
 <br/>
